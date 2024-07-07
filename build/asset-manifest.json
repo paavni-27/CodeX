@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41fab2de.css",
+    "main.js": "/static/js/main.cb873895.js",
+    "static/media/banner.png": "/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/CoreX-logo.png": "/static/media/CoreX-logo.87d1eeb4720f12940c71.png",
+    "static/media/Logo.jpg": "/static/media/Logo.adb8c4168723d504e7ec.jpg",
+    "static/media/gym.png": "/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/index.html",
+    "main.41fab2de.css.map": "/static/css/main.41fab2de.css.map",
+    "main.cb873895.js.map": "/static/js/main.cb873895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41fab2de.css",
+    "static/js/main.cb873895.js"
+  ]
+}
